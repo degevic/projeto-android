@@ -72,6 +72,7 @@ header {
   min-height: 150px;
   text-align: center;
   padding-top: 40px;
+  margin: auto;
 }
 header > p{
   color: white;
